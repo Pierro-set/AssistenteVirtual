@@ -9,4 +9,6 @@
     Após isso, verifique o status da instalação e faça o mesmo com os próximos na lista, os que estiverem dando erro faça o seguinte procedimento.
     Retire o '==versão' e rode apenas ex: pip install pyttsx3 
     Faça esse procedimento para todos que apresentarem erro. 
-    OBS: essa forma de correção pode fazer algumas partes do código não funcionarem bem, mas é a menos trabalhosa. 
+    OBS: essa forma de correção pode fazer algumas partes do código não funcionarem bem, mas é a menos trabalhosa
+
+    
