@@ -1,6 +1,6 @@
-• Desenvolvendo uma Assistente Virtual em Python com base em códigos de outros Devs •
+• Desenvolvendo uma Assistente Virtual em Python
 
-• Sobre o requirements.txt
+Sobre o requirements.txt
 
     O comando de instalação automático padrão é o pip install -r requirements.txt
 
